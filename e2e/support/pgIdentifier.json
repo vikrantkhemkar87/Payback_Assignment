@@ -1,0 +1,21 @@
+{
+  "protractorUrl": "https://www.protractortest.org/",
+  "paybackUrl": "https://www.payback.de/",
+  "protractorPageTitle": "Protractor - end-to-end testing for AngularJS",
+  "paybackPagetitle": "PAYBACK Bonusprogramm » Punkten + Coupons + Aktionen",
+  "cookiePreference": "//button[@class='cookie-setting-link']/following-sibling::button[1]",
+  "enableSearchField": "(.//*[@class=\"container-fluid\"]//li)[12]",
+  "searchField": "",
+  "confirmPageUrl": "https://www.protractortest.org/#/",
+  "viewInGitlab": "//a[contains(@class,'btn btn-large')]",
+  "protractorGithubRepo": "https://github.com/angular/protractor",
+  "protractorTwitterButton": "//span[@class='label']//b[1]",
+  "gitPageTitle": "angular/protractor: E2E test framework for Angular apps",
+  "protractorTwitterPage": "https://twitter.com/intent/follow",
+  "quickStartIcon": "//a[contains(text(),\"Quick Start\")]",
+  "tutorialUnderQuickStart": "(//a[contains(text(),\"Tutorial\")])[1]",
+  "homePage": "//a[@href='#/']",
+  "tutorialOnHomepage": "(//a[@href='#/tutorial'])[3]",
+  "protratorTestMenu": "(//a[contains(text(),\"Protractor Tests\")])[1]",
+  "tutorialUnderProtratorTest": "(//a[contains(text(),\"Tutorial\")])[2]"
+}
