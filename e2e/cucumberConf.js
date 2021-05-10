@@ -1,4 +1,4 @@
-//protractor.conf.js
+
 exports.config = {
     directConnect : true,
     // getPageTimeout: 60000,
@@ -9,7 +9,7 @@ exports.config = {
     capabilities: {
       'browserName': 'chrome',
         chromeOptions: {
-            args: [ "--disable-gpu", "--window-size=800,600" ]
+            args: [ "--headless","--window-size=800,600" ]
         }
     },
   
