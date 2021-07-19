@@ -1,0 +1,24 @@
+{
+  "name": "PaybackAssignment",
+  "version": "1.0.0",
+  "description": "testing Protractor cucumber automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: Please specify the test\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vikrantkhemkar87/Payback_Assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "cucumber": "^6.0.5",
+    "protractor": "^5.4.4",
+    "protractor-cucumber-framework": "^6.2.1"
+  },
+  "devDependencies": {
+    "protractor-jasmine2-html-reporter": "0.0.7"
+  }
+}
