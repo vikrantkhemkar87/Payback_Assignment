@@ -23,7 +23,7 @@ $ npm -v
 $ cd Payback_Assignment
 $ npm install
 ```
-Check libraries downloaded in node_modules folder and package-lock.json file got created.
+Check libraries downloaded in node_modules folder and package-lock.json file got created
 
 ### Test execution
 Default the scenario gets executed in headless manner. To execute:
